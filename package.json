@@ -1,0 +1,12 @@
+{
+  "name": "node-mongdb-revision-ext",
+  "version": "0.0.0",
+  "keywords" : ["mongodb", "mongo", "driver", "db","extension","revision","version","revert"]
+  "description": "Node.js mongodb-native extension/wrapper for tracking document revisions",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "http://github.com/dlau/node-mongodb-revision-ext",
+  "author": "Daryl Lau",
+  "license": "MIT"
+}
